@@ -52,8 +52,8 @@ This project helps students:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/orochiwolf/TP-Exam-Python
+   cd TP-Exam-Python
    ```
 2. Install any required dependencies (if applicable).
 
@@ -85,6 +85,7 @@ Thank you for exploring this repository. This project is part of a series of edu
 
 ### Contact
 For questions, feedback, or collaboration opportunities, feel free to reach out to me:
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **YouTube Channel:** [Your YouTube Channel Link]
+- **Email:** s.mouhoun@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/said-mouhoun/
+- **X:** https://x.com/saidmouhoun
+- **YouTube Channel:** https://www.youtube.com/@saidmouhoun1557
