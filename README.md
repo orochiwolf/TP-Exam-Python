@@ -88,4 +88,4 @@ For questions, feedback, or collaboration opportunities, feel free to reach out 
 - **Email:** s.mouhoun@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/said-mouhoun/
 - **X:** https://x.com/saidmouhoun
-- **YouTube Channel:** https://www.youtube.com/@saidmouhoun1557
+- **YouTube Channel:** https://www.youtube.com/@saidmouhoun
